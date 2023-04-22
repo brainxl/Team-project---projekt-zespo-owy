@@ -1,0 +1,16 @@
+{
+  "name": "team-project",
+  "version": "1.0.0",
+  "description": "Autorzy : \r - Mateusz Oliszewski\r - Mateusz Cyruliczek\r - Dawid Łytka\r - Mateusz Kowal",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.32.3"
+  },
+  "dependencies": {
+    "allure": "^0.0.0"
+  }
+}
